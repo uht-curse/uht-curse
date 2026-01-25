@@ -1,3 +1,5 @@
+![dash](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVrZmV0eXVsc3g4djUycTYycWRsYjlyajMwNTBnbW1mcDJya21iOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3tc8VRQAdt1ajA8ORf/giphy.gif)
+
 # 💫 About Me:
 🌱 Exploring the world of tech, one step at a time.
 
