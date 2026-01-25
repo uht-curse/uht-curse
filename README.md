@@ -1,6 +1,5 @@
 
-<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVrZmV0eXVsc3g4djUycTYycWRsYjlyajMwNTBnbW1mcDJya21iOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3tc8VRQAdt1ajA8ORf/giphy.gif" width="100%" /> -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl4M3BqdzZ5bGY1emExbnU4Znc3NmwxeWx5NmdhdGJtZGF2dmhjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8NupqP2HEh5aMeK00/giphy.gif" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVrZmV0eXVsc3g4djUycTYycWRsYjlyajMwNTBnbW1mcDJya21iOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3tc8VRQAdt1ajA8ORf/giphy.gif" width="100%" />
 
 ---
 
