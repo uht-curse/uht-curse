@@ -32,7 +32,9 @@
 <!-- Backend -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-007FFF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-007FFF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0C79CE?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </details>
 
