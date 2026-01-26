@@ -4,19 +4,15 @@
 <!--Cropped GIF-->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl4M3BqdzZ5bGY1emExbnU4Znc3NmwxeWx5NmdhdGJtZGF2dmhjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8NupqP2HEh5aMeK00/giphy.gif" width="100%" />
 
----
 <div align = "center">
 <h2>🌐 Socials</h2>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-parihar-9a1b24374)
   [![X](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=X-black.svg&logoColor=white)](https://x.com/uhtcurse) 
   [![email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uparihar24082007@gmail.com)
-</div>
-
----
 
 <details open>
-<summary><b>💻 Skills & Tools</b></summary>
+<summary><h2>💻 Skills & Tools</h2></summary>
 <br>
 
 <!-- Languages -->
@@ -46,6 +42,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uht-curse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=uht-curse&icon=0&color=0)](https://visitcount.itsvg.in)
