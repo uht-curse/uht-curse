@@ -6,6 +6,12 @@
 
 <div align = "center">
 
+## Socials:
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-parihar-9a1b24374)
+  [![X](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=X-black.svg&logoColor=white)](https://x.com/uhtcurse) 
+  [![email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uparihar24082007@gmail.com)
+
 ## Languages
 <!-- Languages -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
