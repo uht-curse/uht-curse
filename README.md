@@ -3,7 +3,7 @@
 <table align="center">
 <tr>
 <td>
-<h1 align="center">Hi, I'm Utkarsh 👋</h1>
+<h3 align="center"><strong>Hi, I'm Utkarsh 👋</strong></h3>
 </td>
 </tr>
 <tr>
