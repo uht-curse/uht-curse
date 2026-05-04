@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="middle" align="center" width="55%">
+<td valign="top" align="center" width="55%">
 
 ## Hi, I'm Utkarsh 👋
 
