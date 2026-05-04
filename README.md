@@ -2,7 +2,7 @@
 <p align="center">First-year CS student · Learning from scratch · Building one project at a time</p>
 <p align="center">I'm focused on building strong fundamentals and actually understanding how things work — not just copying code.</p>
 
----
+<img src="https://64.media.tumblr.com/fb87140a975ba290dbd50f37431014e8/98d437a34cc2d1fa-2e/s1280x1920/c2d5b5003c6b3bece194510920592b3e797b951f.pnj" alt="isolated" width="100%"/>
 
 <table>
 <tr>
@@ -37,7 +37,8 @@
 </tr>
 </table>
 
----
+<img src="https://64.media.tumblr.com/fb87140a975ba290dbd50f37431014e8/98d437a34cc2d1fa-2e/s1280x1920/c2d5b5003c6b3bece194510920592b3e797b951f.pnj" alt="isolated" width="100%"/>
+
 
 ## Projects
 > Nothing here yet — but watch this space. 🚧
