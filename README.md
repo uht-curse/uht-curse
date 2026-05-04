@@ -38,7 +38,9 @@
 -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,py" />
+  <br><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 <br>
