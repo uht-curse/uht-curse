@@ -31,10 +31,15 @@
 ## Languages & Tech-Stack:
 <br>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-005CA0?style=for-the-badge&logo=python&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+-->
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js" />
+</p>
 
 <br>
 
@@ -44,10 +49,16 @@
 ## Tools:
 <br>
 
+<!--
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+-->
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 <br>
 
