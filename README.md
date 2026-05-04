@@ -1,50 +1,42 @@
 <!-- <img src="https://64.media.tumblr.com/fb87140a975ba290dbd50f37431014e8/98d437a34cc2d1fa-2e/s1280x1920/c2d5b5003c6b3bece194510920592b3e797b951f.pnj" alt="isolated" width="100%"/> -->
 
 <table align="center">
-<tr>
-<td>
-<h3 align="center"><strong>Hi, I'm Utkarsh 👋</strong></h3>
-</td>
-</tr>
-<tr>
-<td>
-  <br>
-<p align="center">First-year CS student· Learning from scratch· Building one project at a time</p>
-<p align="center">I'm focused on building strong fundamentals and actually understanding how things work.</p>
-  <br>
-</td>
-</tr>
-<tr>
-<td colspan="2" height="0" width="1000"></td>
-</tr>
+  <tr>
+    <td>
+      <h2 align="center"><strong>Hi, I'm Utkarsh 👋</strong></h2>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <br>
+        <p align="center">First-year CS student· Learning from scratch· Building one project at a time</p>
+        <p align="center">I'm focused on building strong fundamentals and actually understanding how things work.</p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" height="0" width="1000"></td>
+  </tr>
 </table>
 
 <!-- <img src="https://64.media.tumblr.com/fb87140a975ba290dbd50f37431014e8/98d437a34cc2d1fa-2e/s1280x1920/c2d5b5003c6b3bece194510920592b3e797b951f.pnj" alt="isolated" width="100%"/> -->
 
 <table>
-<tr>
-<td colspan="2" height="0" width="1000"></td>
-</tr>
-<tr>
-<td valign="top" align="center" width="55%">
+  <tr>
+    <td colspan="2" height="0" width="1000"></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="55%">
 
 ## Languages & Tech-Stack:
+
 <br>
-
-<!-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-005CA0?style=for-the-badge&logo=python&logoColor=yellow)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--->
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,py" />
   <br><br>
     <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
 <br>
-
 </td>
 <td valign="top" align="center" width="45%">
 
