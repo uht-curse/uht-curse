@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Utkarsh 👋</h1>
-
 <p align="center">First-year CS student · Learning from scratch · Building one project at a time</p>
-
 <p align="center">I'm focused on building strong fundamentals and actually understanding how things work — not just copying code.</p>
 
 ---
 
-<table align="center">
+<table>
 <tr>
-<td valign="middle" align="center" width="55%">
+<td valign="top" align="center" width="55%">
 
 ## Currently Learning
 
@@ -16,17 +14,19 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
+</td>
+<td valign="top" align="center" width="45%">
+
 ## Goals
+
 - → Build small but real projects
 - → Get comfortable with problem solving
 - → Move into development step by step
 
 </td>
-<td align="center" width="45%">
-
-<img src="https://i.pinimg.com/1200x/a6/4d/5f/a64d5fd217657681a9202040385749ae.jpg" width="280" />
-
-</td>
+</tr>
+<tr>
+<td colspan="2"><img width="1000" height="0" /></td>
 </tr>
 </table>
 
