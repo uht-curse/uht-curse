@@ -30,7 +30,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2"><img width="1000" height="0" /></td>
+<td colspan="2" height="0" width="1000"></td>
 </tr>
 </table>
 
