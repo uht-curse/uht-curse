@@ -2,6 +2,8 @@
 <p align="center">First-year CS student · Learning from scratch · Building one project at a time</p>
 <p align="center">I'm focused on building strong fundamentals and actually understanding how things work — not just copying code.</p>
 
+---
+
 <table>
 <tr>
 <td colspan="2" height="0" width="1000"></td>
@@ -34,6 +36,8 @@
 <td colspan="2" height="0" width="1000"></td>
 </tr>
 </table>
+
+---
 
 ## Projects
 > Nothing here yet — but watch this space. 🚧
