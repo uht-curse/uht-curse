@@ -9,6 +9,7 @@
 <td valign="top" align="center" width="55%">
 
 ## Currently Learning
+<br>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -18,10 +19,13 @@
 <td valign="top" align="center" width="45%">
 
 ## Goals
+<br>
 
-- → Build small but real projects
-- → Get comfortable with problem solving
-- → Move into development step by step
+- Build small but real projects
+- Get comfortable with problem solving
+- Move into development step by step
+
+<br>
 
 </td>
 </tr>
