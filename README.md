@@ -1,22 +1,34 @@
-<div align="center">
-<h2><strong>Hi, I'm Utkarsh 👋</strong></h2>
+<h1 align="center">Hi, I'm Utkarsh 👋</h1>
 
-> First-year CS student · Learning from scratch · Building one project at a time
+<p align="center">First-year CS student · Learning from scratch · Building one project at a time</p>
 
-> I'm focused on building strong fundamentals and actually understanding how things work.
+<p align="center">I'm focused on building strong fundamentals and actually understanding how things work — not just copying code.</p>
 
 ---
 
-## Currently Learning
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=yellow)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<table align="center">
+<tr>
+<td valign="middle" align="center" width="55%">
 
+## Currently Learning
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ## Goals
 - → Build small but real projects
 - → Get comfortable with problem solving
 - → Move into development step by step
+
+</td>
+<td align="center" width="45%">
+
+<img src="https://i.pinimg.com/1200x/a6/4d/5f/a64d5fd217657681a9202040385749ae.jpg" width="280" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -27,5 +39,3 @@
 
 ## Contact
 Find me here on GitHub · More links coming soon
-
-</div>
