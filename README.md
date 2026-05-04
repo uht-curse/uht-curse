@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-<img src="https://64.media.tumblr.com/fb87140a975ba290dbd50f37431014e8/98d437a34cc2d1fa-2e/s1280x1920/c2d5b5003c6b3bece194510920592b3e797b951f.pnj" alt="isolated" width="100%"/>
+<!-- <img src="https://64.media.tumblr.com/fb87140a975ba290dbd50f37431014e8/98d437a34cc2d1fa-2e/s1280x1920/c2d5b5003c6b3bece194510920592b3e797b951f.pnj" alt="isolated" width="100%"/> -->
 
 <table>
 <tr>
@@ -28,22 +28,21 @@
 <tr>
 <td valign="top" align="center" width="55%">
 
-## Currently Learning
+## Languages & Tech-Stack:
 <br>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
 
 </td>
 <td valign="top" align="center" width="45%">
 
-## Goals
+## Tools:
 <br>
 
-- Build small but real projects
-- Get comfortable with problem solving
-- Move into development step by step
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
