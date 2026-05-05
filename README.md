@@ -3,7 +3,8 @@
 <table align="center">
   <tr>
     <td>
-      <h2 align="center"><strong>Hi, I'm Utkarsh 👋</strong></h2>
+      <h2 align="center"><strong>Hi, I'm Utkarsh</strong>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2> 
     </td>
   </tr>
   <tr>
