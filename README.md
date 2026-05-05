@@ -33,9 +33,12 @@
 
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,py" />
-  <br><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img title="C++" src="https://skillicons.dev/icons?i=cpp" />
+    <img title="Python" src="https://skillicons.dev/icons?i=py" />
+  <br>
+    <img title="HTML" src="https://skillicons.dev/icons?i=html" />
+    <img title="CSS" src="https://skillicons.dev/icons?i=css" />
+    <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
 </p>
 <br>
 </td>
@@ -52,7 +55,10 @@
 -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+    <img title="Git" src="https://skillicons.dev/icons?i=git" />
+    <img title="Github" src="https://skillicons.dev/icons?i=github" />
+    <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" />
+    <img title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
 
 <br>
