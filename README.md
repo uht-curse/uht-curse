@@ -33,11 +33,11 @@
 
 <br>
 <p align="center">
-    <img title="C++" src="https://skillicons.dev/icons?i=cpp" />
-    <img title="Python" src="https://skillicons.dev/icons?i=py" />
-    <img title="HTML" src="https://skillicons.dev/icons?i=html" />
-    <img title="CSS" src="https://skillicons.dev/icons?i=css" />
-    <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+    <img title="C++" src="https://skillicons.dev/icons?i=cpp" width="40px" height="40px"/>
+    <img title="Python" src="https://skillicons.dev/icons?i=py" width="40px" height="40px"/>
+    <img title="HTML" src="https://skillicons.dev/icons?i=html" width="40px" height="40px"/>
+    <img title="CSS" src="https://skillicons.dev/icons?i=css" width="40px" height="40px"/>
+    <img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40px" height="40px"/>
 </p>
 <br>
 </td>
@@ -54,10 +54,10 @@
 -->
 
 <p align="center">
-    <img title="Git" src="https://skillicons.dev/icons?i=git" />
-    <img title="Github" src="https://skillicons.dev/icons?i=github" />
-    <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" />
-    <img title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" />
+    <img title="Git" src="https://skillicons.dev/icons?i=git" width="40px" height="40px"/>
+    <img title="Github" src="https://skillicons.dev/icons?i=github" width="40px" height="40px"/>
+    <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" width="40px" height="40px"/>
+    <img title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" width="40px" height="40px"/>
 </p>
 
 <br>
