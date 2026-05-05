@@ -57,6 +57,7 @@
 <p align="center">
     <img title="Git" src="https://skillicons.dev/icons?i=git" />
     <img title="Github" src="https://skillicons.dev/icons?i=github" />
+    <br>
     <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" />
     <img title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
