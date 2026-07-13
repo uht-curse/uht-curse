@@ -10,7 +10,7 @@
   <tr>
     <td>
       <br>
-        <p align="center">First-year ECE student· Learning from scratch· Building one project at a time</p>
+        <p align="center">First-year CSE student· Learning from scratch· Building one project at a time</p>
         <p align="center">I'm focused on building strong fundamentals and actually understanding how things work.</p>
       <br>
     </td>
@@ -58,6 +58,7 @@
     <img title="Github" src="https://skillicons.dev/icons?i=github" width="40px" height="40px"/>
     <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" width="40px" height="40px"/>
     <img title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" width="40px" height="40px"/>
+    <img title="Linux" src="https://skillicons.dev/icons?i=linux" width="40px" height="40px"/>
 </p>
 
 <br>
