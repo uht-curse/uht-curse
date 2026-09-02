@@ -33,6 +33,7 @@
 
 <br>
 <p align="center">
+    <img title="C" src="https://skillicons.dev/icons?i=c" width="40px" height="40px"/>
     <img title="C++" src="https://skillicons.dev/icons?i=cpp" width="40px" height="40px"/>
     <img title="Python" src="https://skillicons.dev/icons?i=py" width="40px" height="40px"/>
     <img title="HTML" src="https://skillicons.dev/icons?i=html" width="40px" height="40px"/>
