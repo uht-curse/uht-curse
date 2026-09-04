@@ -1,7 +1,22 @@
-<p align="center">
-  Languages & Tech-Stack <br><br> 
-  <img title="C" src="https://skillicons.dev/icons?i=c" width="40px" height="40px"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <h2 align="center"><strong>Hi, I'm Utkarsh</strong>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <br>
+        <p align="center">First-year CSE student· Learning from scratch· Building one project at a time</p>
+        <p align="center">I'm focused on building strong fundamentals and actually understanding how things work.</p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" height="0" width="1000"></td>
+  </tr>
+</table>
 
 <!-- <img src="https://64.media.tumblr.com/fb87140a975ba290dbd50f37431014e8/98d437a34cc2d1fa-2e/s1280x1920/c2d5b5003c6b3bece194510920592b3e797b951f.pnj" alt="isolated" width="100%"/>
 
