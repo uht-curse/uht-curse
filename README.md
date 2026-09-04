@@ -8,8 +8,7 @@
   <tr>
     <td>
       <br>
-        <p align="center">First-year CSE student· Learning from scratch· Building one project at a time</p>
-        <p align="center">I'm focused on building strong fundamentals and actually understanding how things work.</p>
+        <p align="center">First-year CSE student· Learning from scratch· Building one project at a time.</p>
       <br>
     </td>
   </tr>
